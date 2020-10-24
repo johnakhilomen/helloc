@@ -7,7 +7,7 @@ namespace EmpNamespace
 {
     class Employee
     {
-        private:
+        protected:
         string _name;
         int _age;
         double _salary;
